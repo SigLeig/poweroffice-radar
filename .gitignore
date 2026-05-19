@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PowerOffice Radar – lokal sync og rapporter
+data/
+*.db
